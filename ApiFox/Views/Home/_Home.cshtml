@@ -4,8 +4,7 @@
     <h2>
         How it works &nbsp;
         <small>
-            <span class="infoHead">: </span>
-            You need to upload a <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV file</a> with your data as a result you'll get back an <strong>Api Url</strong> that you can use. Or watch this <a href="http://www.youtube.com/watch?v=0Z2KO-4FhuM" target="_blank">demo</a>.
+            Upload a <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV</a> or JSON file - you'll get back an <strong>Api Url</strong> that you can use externally. 
         </small>
     </h2>
 
@@ -15,16 +14,12 @@
 
     <div class="row" id="upload">
         <div class="demo-section col-lg-6 col-md-6 col-sm-6 text-center">
-            <h3>CSV => JSON</h3>
+            <h3>Upload CSV or JSON file</h3>
             <input name="files" id="files" type="file" data-bind="kendoupload: {onSuccess: uploadSuccees}" />
-
 
         </div>
         <div class="demo-section col-lg-6 col-md-6 col-sm-6">
-            <label class="label label-primary">
-                Api List<span data-bind="text: ' - '+availApis().length"></span>
-            </label>
-
+             
             <table class="table">
                 <thead>
                     <tr class="row">
