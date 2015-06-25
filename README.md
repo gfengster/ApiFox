@@ -17,7 +17,7 @@ Why?
 
 TODO
 ==
-+  store the uploaded data into Github so that users can easily modify it
++  store the uploaded data into [Github Gists](https://gist.github.com) so that users can easily modify it
 +  implement Github login provider 
 
 [![](http://apifox.com/print-screen.jpg)]
