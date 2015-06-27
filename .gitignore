@@ -1,2 +1,4 @@
 /packages
 /*.suo
+
+/ApiFox/App_Data/*.json
