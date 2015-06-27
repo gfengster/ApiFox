@@ -1,4 +1,6 @@
 # ApiFox - create simple APIs in seconds
+
+[![Join the chat at https://gitter.im/victorantos/ApiFox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/victorantos/ApiFox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Demo website http://ApiFox.com
 
 ApiFox helps you build simple JSON APIs, just upload a data file(CSV) and you ready to go.
